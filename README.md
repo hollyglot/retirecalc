@@ -1,4 +1,4 @@
-quizzical
+Retire Calc
 =========
 
-JavaScript testing app. Currently, calculates retirement funds.
+Calculate how much money you'll have if you start saving now.
